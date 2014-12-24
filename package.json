@@ -1,6 +1,6 @@
 {
 	"name": "nw-demo",
-	"main": "index.html",
+	"main": "src/index.html",
 	"window": {
 		"show": true,
 		"toolbar": false,
